@@ -46,13 +46,13 @@ You also need an Internet Connexion to run the program for the first time and lo
  First of all, you have to clone the project :
 
 ```bash
-> git clone https://github.com/RaphaelGuarim/VideoTracking
+> git clone https://github.com/RaphaelGuarim/VideoTracker
 ```
 
 Then, go to the project folder
 
 ```bash
-> cd VideoTracking
+> cd VideoTracker
 `````
 Now, you are in the project.
 
